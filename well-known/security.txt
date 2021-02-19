@@ -1,4 +1,0 @@
-Contact: mailto:jinoo2005609@gmail.com
-Contact: mailto:jinoo2005609@naver.com
-Preferred-Languages: en, ko
-Canonical: https://esherloon.ga/.well-known/security.txt
