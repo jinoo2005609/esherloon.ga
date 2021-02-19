@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ko" prefix="og: https://ogp.me/ns#">
+    <head>
+        <title>Esherloon's Server</title>
+        <meta name="description" content="순수 Windows MSDN ISO를 다운로드하실 수 있습니다.">
+        <meta property="og:title" content="Esherloon's Server">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://esherloon.ga">
+        <meta property="og:description" content="순수 Windows MSDN ISO를 다운로드하실 수 있습니다.">
+        <meta property="theme-color" content="#85fb65">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./main.css">
+		<style>
+		.alert {
+			padding: 16px;
+			background-color: #f44336;
+			color: white;
+			opacity: 0.83;
+			transition: opacity 0.6s;
+			margin-bottom: 15px;
+		}
+
+		.alert.success {background-color: #4CAF50;}
+		.alert.info {background-color: #2196F3;}
+		.alert.warning {background-color: #ff9800;}
+
+		.closebtn {
+			padding-left: 15px;
+			color: white;
+			font-weight: bold;
+			float: right;
+			font-size: 20px;
+			line-height: 18px;
+			cursor: pointer;
+			transition: 0.3s;
+		}
+
+		.closebtn:hover {
+			color: black;
+		}
+		</style>
+    </head>
+    <body>
+		<div class="alert success">
+			<span class="closebtn">&times;</span>  
+			<strong>알림 :</strong> 미러 서버가 추가되었습니다. <a href="https://drive.esherloon.ga/">drive.esherloon.ga</a>
+		</div>
+		<div class="alert info">
+			<span class="closebtn">&times;</span>  
+			<strong>알림 :</strong> 미러 서버에서 파일을 다운로드하도록 변경했습니다.
+		</div>
+		
+        <div class="container">
+            <div>
+                <h1>에셜룬의 서버</h1>
+                <p>순수 Windows MSDN ISO를 다운로드하실 수 있습니다.</p>
+				<p>자료는 계속 업데이트 됩니다. (마지막 업데이트 : 2021/02/19)</p>
+				<p>캐쉬를 날려야 업데이트된 자료가 보일 수도 있습니다.</p>
+                <p>
+                    <select name="Product type" id="type" autocomplete="off" onchange="updateVersions()">
+                        <option disabled selected value="placeholder">---- 카테고리를 선택하세요. ----</option>
+                    </select>
+                </p>
+                <p>
+                    <select name="Product version" id="version" autocomplete="off" onchange="updateEditions()">
+                        <option disabled selected value="placeholder">---- 버전을 선택하세요. ----</option>
+                    </select>
+                </p>
+                <p>
+                    <select name="Product edition" id="edition" autocomplete="off" onchange="updateURL()">
+                        <option disabled selected value="placeholder">---- 옵션을 선택하세요. ----</option>
+                    </select>
+                </p>
+                <p id="downloadP">
+                    <a id="download">다운로드</a>
+                </p>
+				<h3>꼭 읽어주세요! <a href="./README.html">클릭</a></h3>
+                <p>참고 : 모든 ISO는 한국어(Korean) 입니다.</p>
+                <p>이 페이지는 해당 레파지토리를 사용하였습니다. <a href="https://github.com/TheBobPony/BPDownloadsGUI">GitHub</a></p>
+            </div>
+        </div>
+    
+        <!-- Script tags here! -->
+        <script src="./listing.js"></script>
+		<script>
+		var close = document.getElementsByClassName("closebtn");
+		var i;
+
+		for (i = 0; i < close.length; i++) {
+			close[i].onclick = function(){
+				var div = this.parentElement;
+				div.style.opacity = "0";
+				setTimeout(function(){ div.style.display = "none"; }, 600);
+			}
+		}
+		</script>
+    </body>
+</html>
