@@ -39,28 +39,23 @@
 		.closebtn:hover {
 			color: black;
 		}
-		
-		body { padding: 0px; margin: 0px; }
-		.jb-box { width: 100%; height: 500px; overflow: hidden;margin: 0px auto; position: relative; }
-		video { width: 100%; }
 		</style>
     </head>
     <body>
-		<div class="alert success">
-			<span class="closebtn">&times;</span>  
-			<strong>알림 :</strong> 미러 서버가 추가되었습니다. <a href="https://drive.esherloon.ga/">drive.esherloon.ga</a>
-		</div>
-		<div class="alert info">
-			<span class="closebtn">&times;</span>  
-			<strong>알림 :</strong> 개인 서버 운영을 중단함에 따라 이제 메인 서버에서 파일 다운로드를 하면 미러 서버에서 다운로드합니다.
-		</div>
-
+        <div class="alert success">
+            <span class="closebtn">&times;</span>  
+            <strong>알림 :</strong> 미러 서버가 추가되었습니다. <a href="https://drive.esherloon.ga/">drive.esherloon.ga</a>
+        </div>
+        <div class="alert info">
+            <span class="closebtn">&times;</span>  
+            <strong>알림 :</strong> 개인 서버 운영을 중단함에 따라 이제 메인 서버에서 파일 다운로드를 하면 미러 서버에서 다운로드합니다.
+        </div>
         <div class="container">
             <div>
                 <h1>에셜룬의 서버</h1>
                 <p>순수 Windows MSDN ISO를 다운로드하실 수 있습니다.</p>
-				<p>자료는 계속 업데이트 됩니다. (마지막 업데이트 : 2021/02/21)</p>
-				<p>캐쉬를 날려야 업데이트된 자료가 보일 수도 있습니다.</p>
+                <p>자료는 계속 업데이트 됩니다. (마지막 업데이트 : 2021/02/21)</p>
+                <p>캐쉬를 날려야 업데이트된 자료가 보일 수도 있습니다.</p>
                 <p>
                     <select name="Product type" id="type" autocomplete="off" onchange="updateVersions()">
                         <option disabled selected value="placeholder">---- 카테고리를 선택하세요. ----</option>
@@ -79,17 +74,11 @@
                 <p id="downloadP">
                     <a id="download">다운로드</a>
                 </p>
-				<h3>꼭 읽어주세요! <a href="./README.html">클릭</a></h3>
+                <h3>꼭 읽어주세요! <a href="./README.html">클릭</a></h3>
                 <p>참고 : 모든 ISO는 한국어(Korean) 입니다.</p>
                 <p>이 페이지는 해당 레파지토리를 사용하였습니다. <a href="https://github.com/TheBobPony/BPDownloadsGUI">GitHub</a></p>
             </div>
         </div>
-		<div class="jb-box">
-			<video muted autoplay loop>
-				<source src="bg.mp4" type="video/mp4">
-				<strong>Your browser does not support the video tag.</strong>
-			</video>
-		</div>
     
         <!-- Script tags here! -->
         <script src="./listing.js"></script>
