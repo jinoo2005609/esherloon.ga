@@ -12,11 +12,9 @@
             "x86 (RTM)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/Vista/ko_windows_vista_x86_dvd_x12-59647.iso",
             "x86 (SP1)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/Vista/ko_windows_vista_k_and_kn_with_service_pack_1_x86_dvd_x14-30741.iso",
             "x86 (SP2)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/Vista/ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.iso",
-            "Enterprise x86 (SP2)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/Vista/ko_windows_vista_enterprise_k_with_sp2_x86_dvd_x15-40287.iso",
             "x64 (RTM)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/Vista/ko_windows_vista_x64_dvd_x12-63219.iso",
             "x64 (SP1)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/Vista/ko_windows_vista_k_with_service_pack_1_x64_dvd_x14-30740.iso",
-            "x64 (SP2)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/Vista/ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.iso",
-            "Enterprise x64 (SP2)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/Vista/ko_windows_vista_enterprise_k_with_sp2_x64_dvd_x15-40433.iso"
+            "x64 (SP2)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/Vista/ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.iso"
         },
         "7": {
             "Starter x86 (RTM)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_starter_k_x86_dvd_x15-69383.iso",
@@ -29,43 +27,29 @@
             "Ultimate x86 (RTM)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_ultimate_k_x86_dvd_x15-65969.iso",
             "Ultimate x86 (RTM/KN)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_ultimate_kn_x86_dvd_x15-65971.iso",
             "Ultimate x86 (SP1)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_ultimate_k_with_sp1_x86_dvd_u_677508.iso",
-            "Enterprise x86 (RTM)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_enterprise_k_x86_dvd_x15-72823.iso",
-            "Enterprise x86 (SP1)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_enterprise_k_with_sp1_x86_dvd_u_677732.iso",
             "Home Premium x64 (RTM)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_home_premium_k_x64_dvd_x15-65781.iso",
             "Home Premium x64 (SP1)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_home_premium_k_with_sp1_x64_dvd_u_676808.iso",
             "Professional x64 (RTM)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_professional_k_x64_dvd_x15-65854.iso",
             "Professional x64 (SP1)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_professional_k_with_sp1_x64_dvd_u_677155.iso",
             "Ultimate x64 (RTM)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_ultimate_k_x64_dvd_x15-65970.iso",
-            "Ultimate x64 (SP1)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_ultimate_k_with_sp1_x64_dvd_u_677502.iso",
-            "Enterprise x64 (RTM)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_enterprise_k_x64_dvd_x15-72824.iso",
-            "Enterprise x64 (SP1)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_enterprise_k_with_sp1_x64_dvd_u_677728.iso"
+            "Ultimate x64 (SP1)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/7/ko_windows_7_ultimate_k_with_sp1_x64_dvd_u_677502.iso"
         },
         "8.0": {
             "x86": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.0/ko_windows_8_x86_dvd_915465.iso",
-            "Enterprise x86": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.0/ko_windows_8_enterprise_x86_dvd_917676.iso",
-            "x64": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.0/ko_windows_8_x64_dvd_915402.iso",
-            "Enterprise x64": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.0/ko_windows_8_enterprise_x64_dvd_917920.iso"
+            "x64": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.0/ko_windows_8_x64_dvd_915402.iso"
         },
         "8.1": {
             "x86": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_8_1_x86_dvd_2707425.iso",
             "x86 (With Update)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_8.1_with_update_x86_dvd_6051617.iso",
-            "Enterprise x86": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_8_1_enterprise_x86_dvd_2972318.iso",
-            "Enterprise x86 (With Update)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_8.1_enterprise_with_update_x86_dvd_6050791.iso",
             "Embedded Industry Pro x86": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_embedded_8_1_industry_pro_x86_dvd_2707556.iso",
             "Embedded Industry Pro x86 (With Update)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052134.iso",
             "x64": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_8_1_x64_dvd_2707261.iso",
             "x64 (With Update)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_8.1_with_update_x64_dvd_6051491.iso",
-            "Enterprise x64": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_8_1_enterprise_x64_dvd_2971993.iso",
-            "Enterprise x64 (With Update)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_8.1_enterprise_with_update_x64_dvd_6050509.iso",
             "Embedded Industry Pro x64": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_embedded_8_1_industry_pro_x64_dvd_2707295.iso",
             "Embedded Industry Pro x64 (With Update)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/8.1/ko_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052097.iso"
         },
         "10": {
-            "Enterprise 2015 LTSB x64": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/10/ko_windows_10_enterprise_2015_ltsb_x64_dvd_6850776.iso",
-            "Enterprise 2016 LTSB x64": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/10/ko_windows_10_enterprise_2016_ltsb_x64_dvd_9057889.iso",
-            "Enterprise 2019 LTSC x64 (Updated Feb 2019)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/10/ko_windows_10_enterprise_ltsc_2019_x64_dvd_67887e3e.iso",
             "1809 x64 (Updated Nov 2020)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/10/ko_windows_10_consumer_editions_version_1809_updated_nov_2020_x64_dvd_e2c39a14.iso",
-            "1809 x64 (Updated Feb 2021/Business)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/10/ko_windows_10_business_editions_version_1809_updated_feb_2021_x64_dvd_3cb01bf3.iso",
             "1909 x64 (Updated Jan 2021)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/10/ko_windows_10_consumer_editions_version_1909_updated_jan_2021_x64_dvd_d5dccfe1.iso",
             "2004 x64 (Updated Feb 2021)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/10/ko_windows_10_consumer_editions_version_2004_updated_feb_2021_x64_dvd_c1b8887a.iso",
             "20H2 x64 (Updated Feb 2021)": "https://drive.esherloon.ga/0:/MSDN%20-%20Windows/10/ko_windows_10_consumer_editions_version_20h2_updated_feb_2021_x64_dvd_78a666d0.iso"
