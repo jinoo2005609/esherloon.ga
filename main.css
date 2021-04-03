@@ -45,7 +45,7 @@ a#download {
     transition: all 0.3s ease-in-out;
 }
 
-a#download[href^="https://drive.esherloon.ga"] {
+a#download[href^="https://drive.esherloon.live"] {
     background-color: #65d8fb;
     color: black;
 }
